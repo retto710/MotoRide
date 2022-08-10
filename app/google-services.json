@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847413521208",
+    "project_id": "motoride-32fb2",
+    "storage_bucket": "motoride-32fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847413521208:android:b2de1d2ef0f49f51916fcd",
+        "android_client_info": {
+          "package_name": "com.aretto.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847413521208-hig8fhe7q9iboefcafkc074mpcv4rg4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWKFtpbegQlzm5y2E7Oo5m4DqXfs9Unzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847413521208-hig8fhe7q9iboefcafkc074mpcv4rg4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
